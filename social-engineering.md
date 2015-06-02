@@ -8,10 +8,10 @@ Social engineering is a multi-disciplinary field which combines knowledge of com
 Examples
 ----
 
-*Phishing Attempts/Spear Phishing
-*Loaded PDF's
-*Fliers with incorrect numbers to call false IT departments.
-*Loaded logins
-*Entering a building by following a real employee closely and allowing them to hold the door open.
-*Making phone calls and pretending to work for human resources etc.
+* Phishing Attempts/Spear Phishing
+* Loaded PDF's
+* Fliers with incorrect numbers to call false IT departments.
+* Loaded logins
+* Entering a building by following a real employee closely and allowing them to hold the door open.
+* Making phone calls and pretending to work for human resources etc.
 
