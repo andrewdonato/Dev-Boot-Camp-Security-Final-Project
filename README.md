@@ -9,12 +9,12 @@ DBC teaches the students to write web applications in Ruby on Rails -- security 
 This is a compendium of all of the information we have learned - common exploits, the security tools used, and other useful tips. This can be used as a point of reference for people interested in learning more about this important topic.
 
 ##Table of Contents
-* Burp
-* SQL Injection
-* recon-ng
-* Sessions hacking
-* XSS examples
-* CVE's and 0-day's
-* What is social engineering section by Chad?
-* Websites where you can practice security stuff
+* [Burp](/burp.md)
+* [SQL Injection](/sql-injection/README.md)
+* [recon-ng](/recon-ng.md)
+* [Sessions hacking](/sessions.md)
+* [XSS examples](/xss.md)
+* [CVE's and 0-day's](/0day.md)
+* [What is social engineering section by Chad?](/socialengineering.md)
+* [Websites where you can practice security stuff](/practice.md)
 * What else do we need? add it here fellas
