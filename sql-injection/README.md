@@ -1,7 +1,7 @@
 # SQL Vulnerabilities
 Samples of security vulnerabilities
 
-### SQL injection(general ones)
+### SQL injection
 Based on SQL server
 
 - error based attacks
