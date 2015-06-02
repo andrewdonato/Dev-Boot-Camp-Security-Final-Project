@@ -3,7 +3,7 @@ This is our team final project on security vulnerabilities found in code. We are
 
 The Team:
 
--Chad 
--Campbell
--Darwin
--Guil
+-[Chad](https://github.com/chadcentofante) 
+-[Campbell](https://github.com/Campbellb)
+-[Darwin](https://github.com/darwin67))
+-[Guil](https://github.com/guilsa)
