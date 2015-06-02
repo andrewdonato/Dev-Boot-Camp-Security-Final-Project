@@ -16,7 +16,7 @@ One of the most famous attacks are the `1=1 Always True` standard injections. If
 www.example.com/users/1' or 1=1--
 ```
 
-Sample Picture
+*Sample Picture*
 ![Standard Always True Injection sample](img/always-true.png)
 *%27 and %20 is how the browser interpret ' and space*
 
@@ -52,7 +52,7 @@ SELECT votes.id, votes.user_id FROM votes
 ```
 This is an effective way of extracting values from the database when you know the name of the tables or columns.
 
-Abstract example
+*Abstract example*
 ```url
 <URL>' union select <column name> from <table name>
 ```
