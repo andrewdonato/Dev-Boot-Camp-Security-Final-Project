@@ -7,9 +7,16 @@ A SQL Injection attack consists of insertion or "injection" of a SQL query via t
 ### SQL injection
 Based on SQL server
 
-- error based attacks
-- union attacks
-- boolean attacks
-- time based attacks
-
+- Error based attacks
+- Boolean attacks
+- Time based attacks
+- Blind attacks
 etc.
+
+
+#### Always true
+One of the most famous attacks are the `1=1 Always True` attack. If this injection is successful, the attacker will be able to pull out all the data (depending on what table you are injecting) from the database.
+```
+www.example.com/users/1**' or 1=1--**
+```
+
