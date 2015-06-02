@@ -1,10 +1,10 @@
 # DBC Wargames!
 
 ##The Team
--[Chad](https://github.com/chadcentofante) 
--[Campbell](https://github.com/Campbellb)
--[Darwin](https://github.com/darwin67))
--[Guil](https://github.com/guilsa)
+⋅⋅*[Chad](https://github.com/chadcentofante) 
+⋅⋅*[Campbell](https://github.com/Campbellb)
+⋅⋅*[Darwin](https://github.com/darwin67)
+⋅⋅*[Guil](https://github.com/guilsa)
 
 ##Our Mission Statement
 DBC teaches the students to write web applications in Ruby on Rails -- security can sometimes be considered an afterthought. Our team decided to make this our main focus, and illuminate the security flaws in some of the web apps we are writing.
