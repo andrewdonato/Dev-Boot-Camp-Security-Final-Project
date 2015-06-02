@@ -15,10 +15,14 @@ This is a compendium of all of the information we have learned - common exploits
 * [XSS](/xss.md)
 * [What is social engineering section by Chad?](/socialengineering.md)
 * [CVE's and 0-day's](/0day.md)
+* [What is penetration testing?](/pentesting.md)
+* [Fuzzing](/fuzzing.md)
+* [Bug Bounties](/bounties.md)
 
 ###Security Tools
 * [Burp](/burp.md)
 * [recon-ng](/recon-ng.md)
+* [BeEF](/beef.md)
 
 ###Other
 * [Websites where you can practice security stuff](/practice.md)
