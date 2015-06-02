@@ -22,5 +22,5 @@ Basicly SQL injection always starts with a quote(`' or "`), because when the sam
 SELECT * FROM users
 WHERE users.id = '1'
 ```
-Therefore, adding a quote to the end of the URL will end that query and you are able to add additional commands to it. `1=1` or `x=x` are the most seen examples but it doesn't matter what you put at both sides of the `=` as long as they are the same things. The result of this query will be always be ***`true`, which means that the database will take out everything it can find and that means *everything*.
+Therefore, adding a quote to the end of the URL will end that query and you are able to add additional commands to it. `1=1` or `x=x` are the most seen examples but it doesn't matter what you put at both sides of the `=` as long as they are the same things. The result of this query will be always be `true`, which means that the database will take out everything it can find and that means *everything*.
 The `--` after `1=1` is the comment syntax in SQL. By adding this to the end of the injection, it will comment out any other following commands if they exist. Therefore the injected query will be the last thing for the database to see, and will give the hacker everything they are looking for.
