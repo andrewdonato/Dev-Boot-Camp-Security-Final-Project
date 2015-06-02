@@ -17,12 +17,12 @@ Once you've hooked a browser, you can modify the whole page and cause different 
 *[The Pretty Theft](https://github.com/beefproject/beef/wiki/Module%3A-Pretty-Theft) module prints a simple message to the user for requiring login and password and explaining that the session has timed out
 *[The Simple Hijacker](https://github.com/beefproject/beef/wiki/Module%3A-Simple-Hijacker) module proposes several social engineering templates and prompt them to the user when he will click on a link on the page.
 *[Clippy](https://github.com/beefproject/beef/wiki/Module%3A-Clippy) is a module that create a small browser assistant which propose browser updates.
-More modules can be found on the [BeEF wiki - Social Engineering](https://github.com/beefproject/beef/wiki/Social-Engineering)
+More modules can be found at: [BeEF wiki - Social Engineering](https://github.com/beefproject/beef/wiki/Social-Engineering)
 ####Network Discovery
-With Javascript hacks, it is possible to launch network attacks through a hooked browser. Check out the [BeEF wiki - Network Discovery](https://github.com/beefproject/beef/wiki/Network-discovery)
+With Javascript hacks, it is possible to launch network attacks through a hooked browser. Check out: [BeEF wiki - Network Discovery](https://github.com/beefproject/beef/wiki/Network-discovery)
 ####Tunneling
-Tunneling Proxy will process requests via a selected browser session. Check out [BeEF wiki - Tunneling](https://github.com/beefproject/beef/wiki/Tunneling)
+Tunneling Proxy will process requests via a selected browser session. Check out: [BeEF wiki - Tunneling](https://github.com/beefproject/beef/wiki/Tunneling)
 ####XSS
-BeEF has a [built in XSS scanner](https://github.com/beefproject/beef/wiki/Xss-Rays)
+BeEf has a [built in XSS scanner](https://github.com/beefproject/beef/wiki/Xss-Rays)!
 ####BeEF's RESTful API
-[BeEF wiki - BeEF RESTful API](https://github.com/beefproject/beef/wiki/BeEF-RESTful-API)
+One of the cool things about BeEF is it's easy-to-use API! Check out the documentation for that here: [BeEF wiki - BeEF RESTful API](https://github.com/beefproject/beef/wiki/BeEF-RESTful-API)
