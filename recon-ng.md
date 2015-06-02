@@ -11,7 +11,7 @@ More information can be found at:
 
 https://bitbucket.org/LaNMaSteR53/recon-ng/overview
 
-FUCKING CHANGED
+FUCKING CHANGE
 
 Installation
 ----
