@@ -9,3 +9,6 @@ DBC teaches the students to write web applications in Ruby on Rails -- security 
 This is a compendium of all of the information we have learned - common exploits, the security tools used, and other useful tips. This can be used as a point of reference for people interested in learning more about this important topic.
 
 ##Table of Contents
+* Burp
+* SQL Injection
+* recon-ng
