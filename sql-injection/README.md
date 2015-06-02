@@ -18,6 +18,7 @@ One of the most famous attacks are the `1=1 Always True` attack. If this injecti
 ```
 www.example.com/users/1' or 1=1--
 ```
+[Always True Injection sample](img/always-true.png)
 Basicly SQL injection always starts with a quote(`' or "`), because when the sample url above is used to query the database, the underlying SQL query will most likely to be a string like this.
 ```sql
 SELECT * FROM users
@@ -25,3 +26,7 @@ WHERE users.id = '1'
 ```
 Therefore, adding a quote to the end of the URL will end that query and you are able to add additional commands to it. `1=1` or `x=x` are the most seen examples but it doesn't matter what you put at both sides of the `=` as long as they are the same things. The result of this query will be always be `true`, which means that the database will take out everything it can find and that means *everything*.
 The `--` after `1=1` is the comment syntax in SQL. By adding this to the end of the injection, it will comment out any other following commands if they exist. Therefore the injected query will be the last thing for the database to see, and will give the hacker everything they are looking for.
+
+
+#### Error Based Injection
+Error based injections are a way for an attacker to gain information about the database by intentionally passing the wrong syntax when injecting queries.
