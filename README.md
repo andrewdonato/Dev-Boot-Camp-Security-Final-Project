@@ -24,6 +24,7 @@ This is a compendium of all of the information we have learned - common exploits
 * [recon-ng](/recon-ng.md)
 * [BeEF](/beef.md)
 * [w3af](/w3af.md)
+* [MetaSploit](/metasploit.md)
 
 ###Other
 * [Websites where you can practice security stuff](/practice.md)
