@@ -1,12 +1,7 @@
 # SQL Vulnerabilities
-
 Samples of security vulnerabilities
 
-### Metasploit
-- Kali Linux
-- Metasploit
-
-### SQL injection
+### SQL injection(general ones)
 Based on SQL server
 
 - error based attacks
