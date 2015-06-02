@@ -10,14 +10,14 @@ This is a compendium of all of the information we have learned - common exploits
 
 ##Table of Contents
 ###Common Exploits and Definitions
-* [SQL Injection](/sql-injection/README.md)
-* [Sessions hacking](/sessions.md)
-* [XSS](/xss.md)
-* [What is social engineering section by Chad?](/socialengineering.md)
-* [CVE's and 0-day's](/0day.md)
-* [What is penetration testing?](/pentesting.md)
-* [Fuzzing](/fuzzing.md)
-* [Bug Bounties](/bounties.md)
+* [What is penetration testing?](/pentesting.md) - What is this pentesting thing anyways?
+* [SQL Injection](/sql-injection/README.md) - An SQL Injection can destroy your database.
+* [Sessions hijacking](/sessions.md) - the theft of a magic cookie used to authenticate a user to a remote server.
+* [XSS](/xss.md) - injecting malicious client-side scripts into Web pages
+* [What is social engineering section by Chad?](/socialengineering.md) - method hacking that relies heavily on human interaction and often involves tricking people into breaking normal security procedures
+* [CVE's and 0-day's](/0day.md) - security holes for which no solution is currently available.
+* [Fuzzing](/fuzzing.md) - A fuzzer is a program which injects automatically semi-random data into a program/stack and detect bugs.
+* [Bug Bounties](/bounties.md) - deal offered by many website and software developers by which individuals can receive recognition and compensation for reporting bugs
 
 ###Security Tools
 * [Burp](/burp.md)

@@ -7,11 +7,13 @@ It works in 3 steps
 2. Send specially crafted strings to each input and analyze the output
 3. Generate a report with the findings
 
+YouTube video: [An Introduction to the w3af framework](https://www.youtube.com/watch?v=aL-nk-gNtpw
+)
 [![w3af](http://img.youtube.com/vi/aL-nk-gNtpw/0.jpg)](https://www.youtube.com/watch?v=aL-nk-gNtpw
 )
 
 ###Documentation
 [w3af docs](http://w3af.org/howtos)
 
-####Citations:
-[1] http://w3af.org/
+####Citations and Further Reading:
+[1] [http://w3af.org/](http://w3af.org/)

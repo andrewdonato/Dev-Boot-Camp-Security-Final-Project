@@ -27,5 +27,5 @@ Firefox
 ----
 There is a [Web Application Security Penetration Testing](https://addons.mozilla.org/en-us/firefox/collections/adammuntner/webappsec/) section of the Firefox Add-On collection, which is really cool. Check out some of the tools!
 
-####Citations:
+####Citations and Further Reading:
 [1]http://resources.infosecinstitute.com/19-extensions-to-turn-google-chrome-into-penetration-testing-tool/

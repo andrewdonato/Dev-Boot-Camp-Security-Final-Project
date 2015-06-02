@@ -11,6 +11,6 @@ Fuzzing can add another point of view to classical software testing techniques (
 * [WebScarab](https://www.owasp.org/index.php/OWASP_WebScarab_NG_Project) - WebScarab is designed to be a tool for anyone who needs to expose the workings of an HTTP(S) based application, whether to allow the developer to debug otherwise difficult problems, or to allow a security specialist to identify vulnerabilities in the way that the application has been designed or implemented.
 * There are tons more!
 
-####Citations:
-[1]https://www.owasp.org/index.php/Fuzzing
-[2]http://en.wikipedia.org/wiki/Fuzz_testing
+####Citations and Further Reading:
+[1][https://www.owasp.org/index.php/Fuzzing](https://www.owasp.org/index.php/Fuzzing)
+[2][http://en.wikipedia.org/wiki/Fuzz_testing](http://en.wikipedia.org/wiki/Fuzz_testing)
