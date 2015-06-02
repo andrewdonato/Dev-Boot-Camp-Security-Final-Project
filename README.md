@@ -15,6 +15,7 @@ This is a compendium of all of the information we have learned - common exploits
 * [XSS](/xss.md)
 * [What is social engineering section by Chad?](/socialengineering.md)
 * [CVE's and 0-day's](/0day.md)
+* [What is penetration testing?](/pentesting.md)
 
 ###Security Tools
 * [Burp](/burp.md)
@@ -23,3 +24,4 @@ This is a compendium of all of the information we have learned - common exploits
 ###Other
 * [Websites where you can practice security stuff](/practice.md)
 * What else do we need? add it here fellas
+* Bug Bounties

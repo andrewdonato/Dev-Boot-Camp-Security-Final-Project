@@ -1,0 +1,10 @@
+#Browser Extensions!
+Many tools take the form of browser extensions/add-ons. They are not full tools, they add on to the browser's functionality in order to give you more functionality!
+
+Chrome
+----
+*[Web Developer](https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm) is a Google Chrome extension that adds a tool bar with various web development tools in Chrome. With these tools, users can perform various web development tasks. This extension helps analyzing web application elements like HTML and JS.
+* [Firebug Lite](https://chrome.google.com/webstore/detail/firebug-lite-for-google-c/bmagokdooijbeehmkpknfglimnifench) provides a rich visual environment to analyze HTML elements, DOM elements and other Box Model Shading. It also provides live CSS editing. It helps in analyzing how an application is working on the client’s side.
+* [d3coder](https://chrome.google.com/webstore/detail/d3coder/gncnbkghencmkfgeepfaonmegemakcol?hl=en-US) enables us to encode and decode selected text via context menu. Thus it reduces the time to encode and decode strings by using separate tools. 
+* [Site Spider](https://chrome.google.com/webstore/detail/site-spider/ddlodfbcplakmddhdlffebcggbbighda) is an extension that adds a crawler in Chrome. It crawls all pages and reports all broken links. One can also restrict the spider by adding restrictions and regular expressions, it works at the client’s side. It can also use your authentication to access all pages. This extension is opensource, so you can easily modify it according to your needs.
+* [Form Fuzzer](https://chrome.google.com/webstore/detail/form-fuzzer/cbpplldpcdcfejdaldmnfhlodoadjhii) is used to populate predefined characters into different form fields. It can also select checkboxes, radio buttons and select items in forms. It has a configuration menu where you can manage all settings of the extension. It is really helpful in testing forms. You can set payloads for forms and then populate payloads quickly with this nice tool. Really helpful in performing XSS and SQL injection attacks.
