@@ -31,7 +31,6 @@ Install dependencies:
 
 	pip install -r REQUIREMENTS
 
-
 Usage
 ----
 
