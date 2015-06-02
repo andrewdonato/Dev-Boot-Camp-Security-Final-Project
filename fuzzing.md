@@ -5,6 +5,11 @@ A fuzzer is a program which injects automatically semi-random data into a progra
 The purpose of fuzzing relies on the assumption that there are bugs within every program, which are waiting to be discovered. Therefore, a systematical approach should find them sooner or later.
 Fuzzing can add another point of view to classical software testing techniques (hand code review, debugging) because of it's non-human approach. It doesn't replace them, but is a reasonable complement, thanks to the limited work needed to put the procedure in place.
 
+##Tools:
+* [w3af](/w3af.md)
+* [Wfuzz](http://sectools.org/tool/wfuzz/) - Wfuzz is a tool designed to brutefore web applications, it's very flexible.
+* [WebScarab](https://www.owasp.org/index.php/OWASP_WebScarab_NG_Project) - WebScarab is designed to be a tool for anyone who needs to expose the workings of an HTTP(S) based application, whether to allow the developer to debug otherwise difficult problems, or to allow a security specialist to identify vulnerabilities in the way that the application has been designed or implemented.
+* There are tons more!
 
 ####Citations:
 [1]https://www.owasp.org/index.php/Fuzzing

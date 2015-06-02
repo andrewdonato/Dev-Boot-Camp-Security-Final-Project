@@ -23,3 +23,7 @@ Spider is a tool for mapping web applications. It uses various intelligent techn
 Scanner is a tool for performing automated discovery of security vulnerabilities in web applications. It is designed to be used by penetration testers, and to fit in closely with your existing techniques and methodologies for performing manual and semi-automated penetration tests of web applications
 
 More explanation of the tools and their uses [can be found here](http://www.securityninja.co.uk/hacking/burp-suite-tutorial-the-intruder-tool/).
+
+
+####Citations:
+[1]http://www.securityninja.co.uk/hacking/burp-suite-tutorial-the-intruder-tool/

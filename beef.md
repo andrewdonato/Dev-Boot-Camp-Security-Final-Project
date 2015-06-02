@@ -27,4 +27,6 @@ BeEf has a [built in XSS scanner](https://github.com/beefproject/beef/wiki/Xss-R
 ####BeEF's RESTful API
 One of the cool things about BeEF is it's easy-to-use API! Check out the documentation for that here: [BeEF wiki - BeEF RESTful API](https://github.com/beefproject/beef/wiki/BeEF-RESTful-API)
 
+
+####Citations:
 [1]http://beefproject.com/
