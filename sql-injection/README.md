@@ -18,7 +18,7 @@ One of the most famous attacks are the `1=1 Always True` attack. If this injecti
 ```
 www.example.com/users/1' or 1=1--
 ```
-[Always True Injection sample](img/always-true.png)
+![Always True Injection sample](img/always-true.png)
 Basicly SQL injection always starts with a quote(`' or "`), because when the sample url above is used to query the database, the underlying SQL query will most likely to be a string like this.
 ```sql
 SELECT * FROM users
