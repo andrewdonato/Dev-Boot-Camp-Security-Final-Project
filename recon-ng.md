@@ -15,7 +15,21 @@ https://bitbucket.org/LaNMaSteR53/recon-ng/overview
 Installation
 ----
 
-git clone https://bitbucket.org/LaNMaSteR53/recon-ng.git
+Make sure brew is installed:
+
+	ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+
+Install Python:
+
+	brew install python
+
+Download the repository:
+
+	git clone https://bitbucket.org/LaNMaSteR53/recon-ng.git
+
+Install dependencies:
+
+	pip install -r REQUIREMENTS
 
 
 Usage
