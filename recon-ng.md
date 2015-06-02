@@ -10,7 +10,6 @@ Recon-ng is a completely modular framework and makes it easy for even the newest
 More information can be found at:
 
 https://bitbucket.org/LaNMaSteR53/recon-ng/overview
-aasdasdsadasdasdasd
 
 Installation
 ----
