@@ -12,3 +12,9 @@ This is a compendium of all of the information we have learned - common exploits
 * Burp
 * SQL Injection
 * recon-ng
+* Sessions hacking
+* XSS examples
+* CVE's and 0-day's
+* What is social engineering section by Chad?
+* Websites where you can practice security stuff
+* What else do we need? add it here fellas
