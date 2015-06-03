@@ -29,7 +29,7 @@ As a software developer, what do I need to know?
 * [Sessions hijacking](/exploits/sessions.md) - Attackers stealing the cookies used to authenticate a user to a remote server. ---Needs work
 * [Fuzzing](/exploits/fuzzing.md) - Fuzzers automatically inject data into a program to detect bugs.
 * [Phishing](/exploits/phishing.md) - A Nigerian prince wants to give ME money? ---Needs work
-* [DDoS](/exploits/ddos.md) - Denial Of Service Attacks ---Needs work
+* [DDoS](/exploits/ddos.md) - Denial Of Service Attacks
 * [Access Point Spoofing](/exploits/spoofing.md) ---Needs work
 * [Keyloggers](/exploits/keyloggers.md) - Keylogging software reads everything you type. ---Needs work
 
