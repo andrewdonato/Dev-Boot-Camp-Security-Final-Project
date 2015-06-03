@@ -9,9 +9,23 @@ Examples
 ----
 
 * Phishing Attempts/Spear Phishing
+
 * Loaded PDF's
+
 * Fliers with incorrect numbers to call false IT departments.
+
 * Loaded logins
+
 * Entering a building by following a real employee closely and allowing them to hold the door open.
+
 * Making phone calls and pretending to work for human resources etc.
+
+Social Engineering Technology
+----
+
+Social engineers make use of similar technology as pentesters with a few additions. Some of the more popular ones are included below:
+
+- The Social Engineer's Toolkit
+
+- Recon-ng
 
