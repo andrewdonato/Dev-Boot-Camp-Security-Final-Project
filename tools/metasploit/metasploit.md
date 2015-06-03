@@ -15,4 +15,3 @@ Though Metasploit can be installed in any Unix based OS, if you are worried abou
 
 - [Docker](https://registry.hub.docker.com/u/darwin67/metasploit/)
 - [Virtual Box](https://www.virtualbox.org/wiki/Downloads)
-- 
