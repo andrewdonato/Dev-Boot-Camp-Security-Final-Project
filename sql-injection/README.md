@@ -4,8 +4,8 @@ A SQL Injection attack consists of insertion or "injection" of a SQL query via t
 - Standard Injection
 - Union Exploitation
 - Error Based Exploitation
-- Boolean Exploitation
-- Time Delay Exploitation
+- Boolean Exploitation(Blind Injection)
+- Time Delay Exploitation(Blind Injection)
   
 etc.
 
@@ -77,3 +77,20 @@ The high lighted part in the URL is the same as the example above. If you take a
 ![Union Exploitation sample 2](img/error-2.png)
 
 As you can see, the errors disappeared. So what the attacker will know from this process is that the first and second column is a integer type and a string type. This might not look threatening at this point, but if a attacker can gain information about the database this easily, getting all the values out just requires a few couple more of guesses and then the attacker can switch to other techniques like *Union Exploitation* to take out the values from the database.
+
+
+
+#### Boolean Exploitation
+The Boolean Exploitation is a technique an attacker uses when they are in a **Blind SQL Injection** situation, in which nothing is known on the outcome of an operation. For example, this behavior happens in cases where the programmer has created a custom error page that does not reveal anything on the structure of the query or on the database. (The page does not return a SQL error, it may just return a HTTP 500, 404, or redirect).  
+By observing the outcome of the page(whether it is a Error page or just a normal page), the attacker can get hints if his/her guess of the database is correct or not. Below is an example of a Boolean Exploitation.
+```url
+www.example.com/users/1' select * from users order by case when (select count(*) from sys.tables)<10 then users.id else users.name end desc--
+```
+The example uses a `case` statement, which is something similar to the `if else` condition. What the injection doing here is that, the attacker already knows that there is either an id or name column in the database, which means that at least one of the command will return a successful response when the query is injected. Thought the view might not change much, the attacker can still get some information about the database or check whether his/her guess is correct or not.  
+The example below is a way the attacker can check for the first character of the column.
+```
+select * from <table name> order by
+case when (select top 1 ascii(substring(<column name>, 1, 1)) from sys.tables)<=109 then <columns name> else <column name> end
+desc
+```
+The number `109` is the ASCII value of the lower case alphabet *m*.By changing the number due to the output, the attacker can actually guess the character of the table and columns using a Binary Search. And by automating this process, the attacker can figure out the database even though they can't get much information from the outputs.
