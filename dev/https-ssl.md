@@ -1,4 +1,4 @@
-## Quick and Dirty - Rails and Sinatra HTTPS/SSL ##
+## Quick and Dirty - Rails and Sinatra HTTPS/SSL* ##
 
 Regardless of whether we as developers use SSL, most web applications still contain security flaws. If the application uses SSL, this simply means that other users on the network cannot view or modify the attacker’s data in transit. Because the attacker controls her end of the SSL tunnel, she can send anything she likes to the server through this tunnel.
 
@@ -34,3 +34,5 @@ https://www.digicert.com/ssl.htm
 http://security.stackexchange.com/questions/37701/is-encryption-in-https-done-by-the-browser-or-by-the-system
 
 http://api.rubyonrails.org/classes/ActionController/ForceSSL/ClassMethods.html#method-i-force_ssl
+
+* (Excerpts from The Web Application Hacker's Handbook: Finding and Exploiting Security Flaws)[http://www.amazon.com/The-Web-Application-Hackers-Handbook/dp/1118026470]
