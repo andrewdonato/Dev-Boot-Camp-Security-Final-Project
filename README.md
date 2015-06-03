@@ -40,7 +40,7 @@ There are tons of security tools out there. These are just a few that we've spen
 * [recon-ng](/tools/recon-ng/recon-ng.md) - regarded as one of the top tools for open source reconnaisance
 * [BeEF](/tools/beef/beef.md) - a penetration testing tool that focuses on the web browser
 * [w3af](/tools/w3af.md) - an open-source web application security scanner
-* [metasploit & kali linux](/tools/metasploit/metasploit.md) - The Hacker's OS ---Can add more
+* [metasploit & kali linux](/tools/metasploit/metasploit.md) - The Hacker's OS
 * [Browser Extensions](/tools/extensions.md) - Turn your browser into a hacking machine
 
 ### Application Development
