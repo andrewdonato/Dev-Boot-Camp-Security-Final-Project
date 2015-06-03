@@ -48,6 +48,7 @@ There are tons of security tools out there. These are just a few that we've spen
 * [Front-end form validation](/dev/frontend-validation.md) - the purpose of front-end validation libraries
 * [Development Guide](/dev/dev-guide.md) - getting into the right mindset for building app security from the start
 
+
 ###Other
 * [Websites where you can practice security stuff](/other/practice.md)
 * What else do we need? add it here fellas
