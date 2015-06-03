@@ -12,11 +12,12 @@ This is a compendium of all of the information we have learned - the common expl
 ###Definitions
 The world of Web Security can be a scary place...
  Let us clear up some of your confusion by defining a few terms!
-* [Penetration Testing](/definitions/pentesting.md) - What is this pentesting thing anyways? ---Needs work
-* [White Hat vs. Black Hat](/definitions/hats.md) - Which hat do I wear? ---Needs work
-* [TOR](/definitions/tor.md) - Quick overview of the Tor Project ---Needs work
-* [CVE's and 0-day's](/definitions/0day.md) - Security holes for which no solution is currently available. ---Needs work
+* [Penetration Testing](/definitions/pentesting.md) - What is this pentesting thing anyways? 
+* [White Hat vs. Black Hat](/definitions/hats.md) - Which hat do I wear?
+* [CVE's and 0-day's](/definitions/0day.md) - Security holes for which no solution is currently available.
 * [Bug Bounties](/definitions/bugbounties.md) - Find exploits for fame and fortune!
+* [TOR & Deep Web](/definitions/tor.md) - Quick overview of the Tor Project
+
 
 ###Common Exploits 
 As a software developer, what do I need to know?
