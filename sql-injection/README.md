@@ -16,9 +16,9 @@ One of the most famous attacks are the `1=1 Always True` standard injections. If
 www.example.com/users/1' or 1=1--
 ```
 
-:*Standard Injection Sample*:
+*Standard Injection Sample*
 ![Standard Always True Injection sample](img/always-true.png)
-:*%27 and %20 is how the browser interpret ' and space*:
+*%27 and %20 is how the browser interpret ' and space*
 
 
 Basicly SQL injections always start with a quote(`' or "`), because when the sample url above is used to query the database, the underlying SQL query will most likely to be a string like this.
