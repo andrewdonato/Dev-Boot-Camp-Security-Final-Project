@@ -1,5 +1,5 @@
 #Tor
-![Tor](/img/tor.png "Tor")
+![Tor](http://upload.wikimedia.org/wikipedia/commons/1/15/Tor-logo-2011-flat.svg "Tor")
 
 Tor is free software for enabling anonymous communication.
 
