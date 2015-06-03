@@ -26,4 +26,4 @@ More explanation of the tools and their uses [can be found here](http://www.secu
 
 
 ####Citations:
-[1][http://www.securityninja.co.uk/hacking/burp-suite-tutorial-the-intruder-tool/](http://www.securityninja.co.uk/hacking/burp-suite-tutorial-the-intruder-tool/)
+1. [http://www.securityninja.co.uk/hacking/burp-suite-tutorial-the-intruder-tool/](http://www.securityninja.co.uk/hacking/burp-suite-tutorial-the-intruder-tool/)

@@ -29,4 +29,4 @@ One of the cool things about BeEF is it's easy-to-use API! Check out the documen
 
 
 ####Citations and Further Reading:
-[1][http://beefproject.com/](http://beefproject.com/)
+1. [http://beefproject.com/](http://beefproject.com/)
