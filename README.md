@@ -25,28 +25,29 @@ As a software developer, what do I need to know?
 * [Social Engineering](/exploits/socialengineering.md) - Tricking people into breaking normal security procedures ---Needs work
 * [SQL Injection](/exploits/sql-injection/README.md) - SQL Injections can destroy your database.
 * [Man-in-the-middle Attacks](/exploits/mitm.md) - Intercept the traffic between two parties
-* [XSS](/exploits/xss.md) - Injecting malicious client-side scripts into Web pages
+* [XSS](/exploits/xss.md) - Injecting malicious client-side scripts into Web pages --- Needs work
 * [Sessions hijacking](/exploits/sessions.md) - Attackers stealing the cookies used to authenticate a user to a remote server. ---Needs work
 * [Fuzzing](/exploits/fuzzing.md) - Fuzzers automatically inject data into a program to detect bugs.
 * [Phishing](/exploits/phishing.md) - A Nigerian prince wants to give ME money? ---Needs work
-* [DDOS](/exploits/ddos.md) - Denial Of Service Attacks ---Needs work
+* [DDoS](/exploits/ddos.md) - Denial Of Service Attacks
 * [Access Point Spoofing](/exploits/spoofing.md) ---Needs work
 * [Keyloggers](/exploits/keyloggers.md) - Keylogging software reads everything you type. ---Needs work
 
 
 ###Security Tools
 There are tons of security tools out there. These are just a few that we've spent time researching - there are many, many more.
-* [Burp](/tools/burp.md) - man-in-the-middle app with many modules
-* [recon-ng](/tools/recon-ng.md) - regarded as one of the top tools for open source reconnaisance ---Needs work
-* [BeEF](/tools/beef.md) - a penetration testing tool that focuses on the web browser
+* [Burp](/tools/burp/burp.md) - man-in-the-middle app with many modules
+* [recon-ng](/tools/recon-ng/recon-ng.md) - regarded as one of the top tools for open source reconnaisance
+* [BeEF](/tools/beef/beef.md) - a penetration testing tool that focuses on the web browser
 * [w3af](/tools/w3af.md) - an open-source web application security scanner
-* [metasploit & kali linux](/tools/metasploit.md) - The Hacker's OS ---Needs work
+* [metasploit & kali linux](/tools/metasploit/metasploit.md) - The Hacker's OS ---Can add more
 * [Browser Extensions](/tools/extensions.md) - Turn your browser into a hacking machine
 
 ### Application Development
 * [HTTPS and SSL](/dev/https-ssl.md) - enabling HTTPS over Rails and Sinatra
 * [Front-end form validation](/dev/frontend-validation.md) - the purpose of front-end validation libraries
 * [Development Guide](/dev/dev-guide.md) - getting into the right mindset for building app security from the start
+
 
 ###Other
 * [Websites where you can practice security stuff](/other/practice.md)
