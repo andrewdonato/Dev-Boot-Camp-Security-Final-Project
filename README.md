@@ -43,7 +43,7 @@ There are tons of security tools out there. These are just a few that we've spen
 * [Browser Extensions](/tools/extensions.md) - Turn your browser into a hacking machine
 
 ### Application Development
-* [HTTPs and SSL](/dev/https-ssl.md) - enabling HTTPs over Rails and Sinatra
+* [HTTPS and SSL](/dev/https-ssl.md) - enabling HTTPS over Rails and Sinatra
 * [Front-end form validation](/dev/frontend-validation.md) - the purpose of front-end validation libraries
 * [Development Guide](/dev/dev-guide.md) - getting into the right mindset for building app security from the start
 
