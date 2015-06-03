@@ -1,7 +1,9 @@
 #Bug Bounties!
 ##What is it?
 A bug bounty program is a deal offered by many website and software developers by which individuals can receive recognition and compensation for reporting bugs, especially those pertaining to exploits and vulnerabilities. 
+
 Previously, there was no official way that people could report these bugs and exploits. Many companies didn't(and still don't) understand the importance of having security researchers probing their sites, and didn't have methods in for researchers to responsibly disclose these exploits. There were many cases where researchers would approach a company or developer with an exploit they found, and then the company would press charges against the researcher.
+
 Bug Bounties are a way for companies and security researches to have a way of communicating with each other. Money is offered for the discovery of exploits in a website or framework, usually $500 up to $10,000, depending on the seriousness of the exploit in question. Bug Bounties provide an understood relationship between the Developers and Security Researchers for the facilitation of responsibly disclosing bugs and exploits.
 
 ##Websites with Bug Bounty Programs:
