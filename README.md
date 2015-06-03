@@ -22,7 +22,7 @@ The world of Web Security can be a scary place...
 ###Common Exploits 
 As a software developer, what do I need to know?
 * [Viruses](/exploits/virus.md) - Explanation of Viruses, Malware, Worms, Trojans.. ---Needs work
-* [Social Engineering](/exploits/socialengineering.md) - Tricking people into breaking normal security procedures ---Needs work
+* [Social Engineering](/exploits/social-engineering.md) - Tricking people into breaking normal security procedures ---Needs work
 * [SQL Injection](/exploits/sql-injection/README.md) - SQL Injections can destroy your database.
 * [Man-in-the-middle Attacks](/exploits/mitm.md) - Intercept the traffic between two parties
 * [XSS](/exploits/xss.md) - Injecting malicious client-side scripts into Web pages --- Needs work
