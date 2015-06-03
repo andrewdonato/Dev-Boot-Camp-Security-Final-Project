@@ -26,7 +26,7 @@ As a software developer, what do I need to know?
 * [SQL Injection](/exploits/sql-injection/README.md) - SQL Injections can destroy your database.
 * [Man-in-the-middle Attacks](/exploits/mitm.md) - Intercept the traffic between two parties
 * [XSS](/exploits/xss.md) - Injecting malicious client-side scripts into Web pages --- Needs work
-* [Sessions hijacking](/exploits/sessions.md) - Attackers stealing the cookies used to authenticate a user to a remote server. ---Needs work
+* [Sessions hijacking](/exploits/sessions.md) - Attackers stealing the cookies used to authenticate a user to a remote server. ---Will add to it later
 * [Fuzzing](/exploits/fuzzing.md) - Fuzzers automatically inject data into a program to detect bugs.
 * [Phishing](/exploits/phishing.md) - A Nigerian prince wants to give ME money?
 * [DDoS](/exploits/ddos.md) - Denial Of Service Attacks
