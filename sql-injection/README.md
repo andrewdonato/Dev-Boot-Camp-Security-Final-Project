@@ -16,7 +16,7 @@ One of the most famous attacks are the `1=1 Always True` standard injections. If
 www.example.com/users/1' or 1=1--
 ```
 
-*Sample Picture*
+*Standard Injection Sample*
 ![Standard Always True Injection sample](img/always-true.png)
 *%27 and %20 is how the browser interpret ' and space*
 
@@ -60,7 +60,20 @@ This is an effective way of extracting values from the database when you know th
 
 
 #### Error Based Exploitation
-Error based injections are a way for an attacker to gain information about the database by intentionally passing the wrong syntax when injecting queries. It's a way for an attacker to guess what kind of tables or columns there are in the database.  
+Error Based Exploitation are a way for an attacker to gain information about the database by intentionally passing the wrong syntax when injecting queries. It's a way for an attacker to guess what kind of tables or columns there are in the database when the attacker can't exploit the SQL injection vulnerability using techniques like the `Union Exploitation`.  
   
-Sample Picture
-![Union Exploitation sample](img/union.png)
+An example of an Error Based Exploitation on the URL will look like this.
+```url
+www.example.com/users/1' union select 1,1 from vote--
+```
+This look familiar doesn't it? That's right, this is one of the example I used in the Union Exploitation technique. You may wonder why I'm repeating this, but it will make sense if you take a look at the picture below.
+  
+*Error Based Exploitation sample 1*
+![Union Exploitation sample 1](img/error-1.png)
+
+The high lighted part in the URL is the same as the example above. If you take a look at the 2 smaller high lights, you can see that they are actually giving the attacker(which is me in this case) some information about the columns in the database. The error is telling us the type of the attribute of that table, so let's take a look at what will happen when we change one of the ones to a string instead of an integer?  
+
+*Error Based Exploitation sample 2*
+![Union Exploitation sample 2](img/error-2.png)
+
+As you can see, the errors disappeared. So what the attacker will know from this process is that the first and second column is a integer type and a string type. This might not look threatening at this point, but if a attacker can gain information about the database this easily, getting all the values out just requires a few couple more of guesses and then the attacker can switch to other techniques like *Union Exploitation* to take out the values from the database.
