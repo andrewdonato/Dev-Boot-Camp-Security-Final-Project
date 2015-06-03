@@ -6,24 +6,28 @@
 ##Our Mission Statement
 DBC teaches the students to write web applications in Ruby on Rails -- security can sometimes be considered an afterthought. Our team decided to make this our main focus, and illuminate the security flaws in some of the web apps we are writing.
 
-This is a compendium of all of the information we have learned - common exploits, the security tools used, and other useful tips from the web security world. This can be used as a point of reference for people interested in learning more about this important topic.
+This is a compendium of all of the information we have learned - the common exploits, the security tools used, and other useful tips from the web security world. This can be used as a point of reference for people interested in learning more about this important topic.
 
 ##Table of Contents
 ###Common Exploits and Definitions
 * [What is penetration testing?](/pentesting.md) - What is this pentesting thing anyways?
 * [SQL Injection](/sql-injection/README.md) - An SQL Injection can destroy your database.
-* [Sessions hijacking](/sessions.md) - the theft of a magic cookie used to authenticate a user to a remote server.
+* [Man-in-the-middle Attacks](/mitm.md) - Edit the traffic between two parties
+* [Sessions hijacking](/sessions.md) - A MitM attack that steals the cookies used to authenticate a user to a remote server.
 * [XSS](/xss.md) - injecting malicious client-side scripts into Web pages
-* [What is social engineering section by Chad?](/socialengineering.md) - method hacking that relies heavily on human interaction and often involves tricking people into breaking normal security procedures
+* [Fuzzing](/fuzzing.md) - fuzzers automatically inject data into a program to detect bugs.
+* [Social Engineering](/socialengineering.md) - tricking people into breaking normal security procedures
 * [CVE's and 0-day's](/0day.md) - security holes for which no solution is currently available.
-* [Fuzzing](/fuzzing.md) - A fuzzer is a program which injects automatically semi-random data into a program/stack and detect bugs.
-* [Bug Bounties](/bounties.md) - deal offered by many website and software developers by which individuals can receive recognition and compensation for reporting bugs
+* [Bug Bounties](/bugbounties.md) - websites offer you fame and fortune to find exploits!
+* [White Hat vs. Black Hat](/hats.md)
 
 ###Security Tools
-* [Burp](/burp.md)
-* [recon-ng](/recon-ng.md)
-* [BeEF](/beef.md)
-* [w3af](/w3af.md)
+* [Burp](/burp.md) - man-in-the-middle app with many modules
+* [recon-ng](/recon-ng.md) - regarded as one of the top tools for open source reconnaisance
+* [BeEF](/beef.md) - a penetration testing tool that focuses on the web browser
+* [w3af](/w3af.md) - an open-source web application security scanner
+* [metasploit & kali](/metasploit.md) - The Hacker's OS!
+* [Browser Extensions](/extensions.md) - Turn your browser into a hacking machine!
 
 ###Other
 * [Websites where you can practice security stuff](/practice.md)
