@@ -22,13 +22,13 @@ The world of Web Security can be a scary place...
 ###Common Exploits 
 As a software developer, what do I need to know?
 * [Viruses](/exploits/virus.md) - Explanation of Viruses, Malware, Worms, Trojans.. ---Needs work
-* [Social Engineering](/exploits/social-engineering.md) - Tricking people into breaking normal security procedures ---Needs work
+* [Social Engineering](/exploits/social-engineering.md) - Tricking people into breaking normal security procedures
 * [SQL Injection](/exploits/sql-injection/README.md) - SQL Injections can destroy your database.
 * [Man-in-the-middle Attacks](/exploits/mitm.md) - Intercept the traffic between two parties
 * [XSS](/exploits/xss.md) - Injecting malicious client-side scripts into Web pages --- Needs work
 * [Sessions hijacking](/exploits/sessions.md) - Attackers stealing the cookies used to authenticate a user to a remote server. ---Needs work
 * [Fuzzing](/exploits/fuzzing.md) - Fuzzers automatically inject data into a program to detect bugs.
-* [Phishing](/exploits/phishing.md) - A Nigerian prince wants to give ME money? ---Needs work
+* [Phishing](/exploits/phishing.md) - A Nigerian prince wants to give ME money?
 * [DDoS](/exploits/ddos.md) - Denial Of Service Attacks
 * [Access Point Spoofing](/exploits/spoofing.md) ---Needs work
 * [Keyloggers](/exploits/keyloggers.md) - Keylogging software reads everything you type. ---Needs work
