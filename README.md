@@ -12,20 +12,23 @@ This is a compendium of all of the information we have learned - the common expl
 ###Common Exploits and Definitions
 * [What is penetration testing?](/pentesting.md) - What is this pentesting thing anyways?
 * [SQL Injection](/sql-injection/README.md) - An SQL Injection can destroy your database.
-* [Sessions hijacking](/sessions.md) - the theft of a magic cookie used to authenticate a user to a remote server.
+* [Man-in-the-middle Attacks](/mitm.md) - Edit the traffic between two parties
+* [Sessions hijacking](/sessions.md) - A MitM attack that steals the cookies used to authenticate a user to a remote server.
 * [XSS](/xss.md) - injecting malicious client-side scripts into Web pages
-* [What is social engineering section by Chad?](/socialengineering.md) - tricking people into breaking normal security procedures
-* [CVE's and 0-day's](/0day.md) - security holes for which no solution is currently available.
 * [Fuzzing](/fuzzing.md) - fuzzers automatically inject data into a program to detect bugs.
-* [Bug Bounties](/bounties.md) - websites offer you fame and fortune to find exploits!
+* [Social Engineering](/socialengineering.md) - tricking people into breaking normal security procedures
+* [CVE's and 0-day's](/0day.md) - security holes for which no solution is currently available.
+* [Bug Bounties](/bugbounties.md) - websites offer you fame and fortune to find exploits!
+* [White Hat vs. Black Hat](/hats.md)
 
 ###Security Tools
 * [Burp](/burp.md) - man-in-the-middle app with many modules
-* [recon-ng](/recon-ng.md)
+* [recon-ng](/recon-ng.md) - regarded as one of the top tools for open source reconnaisance
 * [BeEF](/beef.md) - a penetration testing tool that focuses on the web browser
-* [w3af](/w3af.md)
-* [metasploit & kali](/metasploit.md)
+* [w3af](/w3af.md) - an open-source web application security scanner
+* [metasploit & kali](/metasploit.md) - The Hacker's OS!
 * [Browser Extensions](/extensions.md) - Turn your browser into a hacking machine!
+
 ###Other
 * [Websites where you can practice security stuff](/practice.md)
 * What else do we need? add it here fellas

@@ -1,3 +1,7 @@
+#Practice Your Hacking Skills!
+These websites can be used to practice your hacking skills. They range in difficulty and differ in the different types of exploits demonstrated.
+
+###The Sites:
 * [Altoro Mutual](http://demo.testfire.net/bank/login.aspx) - Written by IBM. This is a fake bank website that you can hack. There are many guides written out there for this.
 * [Hack This Site!](https://www.hackthissite.org/)
 * [OverTheWire Wargames](http://overthewire.org/wargames/) - Lots of cool games on this, they get increasingly harder!
