@@ -37,7 +37,7 @@ As a software developer, what do I need to know?
 ###Security Tools
 There are tons of security tools out there. These are just a few that we've spent time researching - there are many, many more.
 * [Burp](/tools/burp/burp.md) - man-in-the-middle app with many modules
-* [recon-ng](/tools/recon-ng/recon-ng.md) - regarded as one of the top tools for open source reconnaisance ---Needs work
+* [recon-ng](/tools/recon-ng/recon-ng.md) - regarded as one of the top tools for open source reconnaisance
 * [BeEF](/tools/beef/beef.md) - a penetration testing tool that focuses on the web browser
 * [w3af](/tools/w3af.md) - an open-source web application security scanner
 * [metasploit & kali linux](/tools/metasploit/metasploit.md) - The Hacker's OS ---Can add more
