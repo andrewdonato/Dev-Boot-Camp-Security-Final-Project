@@ -32,6 +32,11 @@ There are tons of security tools out there that you can play with! These are jus
 * [metasploit & kali linux](/metasploit.md) - The Hacker's OS!
 * [Browser Extensions](/extensions.md) - Turn your browser into a hacking machine!
 
+### Application Development
+* [HTTPs and SSL](/dev/https-ssl.md) - enabling HTTPs over Rails and Sinatra
+* [Front-end form validation](/dev/frontend-validation.md) - the purpose of front-end validation libraries
+* [Development Guide](/dev/dev-guide.md) - getting into the right mindset for building app security from the start
+
 ###Other
 * [Websites where you can practice security stuff](/practice.md)
 * What else do we need? add it here fellas
