@@ -48,6 +48,10 @@ There are tons of security tools out there. These are just a few that we've spen
 * [Front-end form validation](/dev/frontend-validation.md) - the purpose of front-end validation libraries
 * [Development Guide](/dev/dev-guide.md) - getting into the right mindset for building app security from the start
 
+### Videos
+Watch these step-by-step videos of live hacks.
+* [Hack a Russian chemical site](/movies/russian-chemical-site.md)Learn how to sweep a site for vulnerabilities using Uniscan and sqlmap. Then, exploit these vulnerabilites to take a look inside their database. You can chose to reak havok once inside. 
+
 
 ###Other
 * [Websites where you can practice security stuff](/other/practice.md)
