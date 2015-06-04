@@ -1,4 +1,4 @@
-## Quick and Dirty - Rails and Sinatra HTTPS/SSL ##
+## Quick and Dirty - Rails and Sinatra HTTPS/SSL* ##
 
 Regardless of whether we as developers use SSL, most web applications still contain security flaws. If the application uses SSL, this simply means that other users on the network cannot view or modify the attacker’s data in transit. Because the attacker controls her end of the SSL tunnel, she can send anything she likes to the server through this tunnel.
 
@@ -24,13 +24,9 @@ https://robots.thoughtbot.com/ssl-for-rails-with-heroku-and-dnsimple
 You can use rack-protection to force SSL through Sinatra. http://www.sinatrarb.com/rack-protection/
 
 ## Resources ##
-
-http://www.quora.com/How-will-you-explain-SSH-VPN-HTTPS-SSL-in-simple-terms-to-a-beginner-in-networking
-
-http://security.stackexchange.com/questions/48965/form-submissions-over-https-are-not-encrypted
-
-https://www.digicert.com/ssl.htm
-
-http://security.stackexchange.com/questions/37701/is-encryption-in-https-done-by-the-browser-or-by-the-system
-
-http://api.rubyonrails.org/classes/ActionController/ForceSSL/ClassMethods.html#method-i-force_ssl
+- [How will you explain SSH,VPN,HTTPS,SSL in simple terms to a beginner in networking?](http://www.quora.com/How-will-you-explain-SSH-VPN-HTTPS-SSL-in-simple-terms-to-a-beginner-in-networking)
+- [Form submissions over HTTPS are not encrypted?](http://security.stackexchange.com/questions/48965/form-submissions-over-https-are-not-encrypted)
+- [What Is SSL (Secure Sockets Layer) and What Are SSL Certificates?](https://www.digicert.com/ssl.htm)
+- [Is encryption in HTTPS done by the browser or by the system?](http://security.stackexchange.com/questions/37701/is-encryption-in-https-done-by-the-browser-or-by-the-system)
+- [Ruby on Rails methods(force_ssl)](http://api.rubyonrails.org/classes/ActionController/ForceSSL/ClassMethods.html#method-i-force_ssl)
+- [The Web Application Hacker's Handbook: Finding and Exploiting Security Flaws](http://www.amazon.com/The-Web-Application-Hackers-Handbook/dp/1118026470)
