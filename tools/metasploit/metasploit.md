@@ -17,7 +17,7 @@ Rather than being one large program, it is a framework of smaller programs much 
 - [Linux](http://www.darkoperator.com/installing-metasploit-in-ubunt/)
 
 
-## Virutal Environment
+## Virtual Environment
 Though Metasploit can be installed in any Unix based OS, if you are worried about Metasploit messing up your environment, you can install it into a virtual environment and use it there.  
 
 - [Docker](https://registry.hub.docker.com/u/darwin67/metasploit/)
