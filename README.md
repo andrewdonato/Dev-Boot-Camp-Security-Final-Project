@@ -55,4 +55,18 @@ Watch these step-by-step videos of live hacks.
 
 ###Other
 * [Websites where you can practice security stuff](/other/practice.md)
-* What else do we need? add it here fellas
+
+* [General Guidelines][https://YouTube.com/watch?v=u8PrqAkTfdQ]
+
+* [WebApp Testing Learning][https://www.pentesterlab.com/exercises/web_for_pentester_II/ Learning (A/V): http://webappsecmovies.sourceforge.net/webgoat/]
+
+* [WebApp Testing Theory][https://www.owasp.org/index.php/Top_10_2013-Top_10]
+
+* [Challenges][http://pentestlab.org/10-vulnerable-web-applications-you-can-play-with/]
+
+* [Learning: (A/V) Metasploit Framework][http://www.securitytube.net/groups?operation=view&groupId=10]
+
+* [Senario Based Inf Testing][http://www.securitytube.net/groups?operation=view&groupId=2],[http://www.offensive-security.com/metasploit-unleashed/Main_Page]
+
+* [Challenges][CTF365.com]
+
