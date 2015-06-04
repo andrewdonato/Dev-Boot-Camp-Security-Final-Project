@@ -66,7 +66,7 @@ Watch these step-by-step videos of live hacks.
 
 * [Learning: (A/V) Metasploit Framework][http://www.securitytube.net/groups?operation=view&groupId=10]
 
-* [Senario Based Inf Testing][http://www.securitytube.net/groups?operation=view&groupId=2],[http://www.offensive-security.com/metasploit-unleashed/Main_Page]
+* [Senario Based Inf Testing][http://www.securitytube.net/groups?operation=view&groupId=2],[http://www.offensive-security.com/metasploit-unleashed/Main_Page] 
 
 * [Challenges][CTF365.com]
 
