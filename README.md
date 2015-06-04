@@ -58,7 +58,9 @@ Watch these step-by-step videos of live hacks.
 
 * [General Guidelines][https://YouTube.com/watch?v=u8PrqAkTfdQ]
 
-* [WebApp Testing Learning][https://www.pentesterlab.com/exercises/web_for_pentester_II/ Learning (A/V): http://webappsecmovies.sourceforge.net/webgoat/]
+* [WebApp Testing Learning][https://www.pentesterlab.com/exercises/web_for_pentester_II[]
+
+* [Learning (A/V)][http://webappsecmovies.sourceforge.net/webgoat/]
 
 * [WebApp Testing Theory][https://www.owasp.org/index.php/Top_10_2013-Top_10]
 
