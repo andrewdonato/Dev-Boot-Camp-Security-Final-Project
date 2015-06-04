@@ -25,7 +25,7 @@ As a software developer, what do I need to know?
 * [Social Engineering](/exploits/social-engineering.md) - Tricking people into breaking normal security procedures
 * [SQL Injection](/exploits/sql-injection/README.md) - SQL Injections can destroy your database.
 * [Man-in-the-middle Attacks](/exploits/mitm.md) - Intercept the traffic between two parties
-* [XSS](/exploits/xss.md) - Injecting malicious client-side scripts into Web pages --- Needs work
+* [XSS](/exploits/xss.md) - Injecting malicious client-side scripts into Web pages
 * [Sessions hijacking](/exploits/sessions.md) - Attackers stealing the cookies used to authenticate a user to a remote server.
 * [Fuzzing](/exploits/fuzzing.md) - Fuzzers automatically inject data into a program to detect bugs.
 * [Phishing](/exploits/phishing.md) - A Nigerian prince wants to give ME money?
@@ -52,6 +52,7 @@ There are tons of security tools out there. These are just a few that we've spen
 ### Videos
 Watch these step-by-step videos of live hacks.
 * [Hack a Russian chemical site](/movies/russian-chemical-site.md) - Learn how to sweep a site for vulnerabilities using Uniscan and sqlmap. Then, exploit these vulnerabilites to take a look inside their database.
+
 
 
 ###Other
