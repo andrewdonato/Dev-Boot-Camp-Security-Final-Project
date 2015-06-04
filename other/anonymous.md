@@ -12,8 +12,8 @@ Dozens of people have been arrested for involvement in Anonymous cyberattacks, i
 Links to More Information
 ----
 
-- [Wikipedia][http://en.wikipedia.org/wiki/Anonymous_%28group%29]
-- [We Are Anonymous][http://www.amazon.com/We-Are-Inside-LulzSec-Insurgency/dp/0316213527/ref=sr_1_2?ie=UTF8&qid=1433377060&sr=8-2&keywords=anonymous+hackers]
-- [Anonymous Documentary][https://www.youtube.com/watch?v=FAECyLvSCHg]
-- [Anonymous- The Hacker Wars][https://www.youtube.com/watch?v=ku9edEKvGuY]
-- [Anonymous- We Are Legion][https://www.youtube.com/watch?v=3SsLGPaYjvM]
+- [Wikipedia](http://en.wikipedia.org/wiki/Anonymous_%28group%29)
+- [We Are Anonymous](http://www.amazon.com/We-Are-Inside-LulzSec-Insurgency/dp/0316213527/ref=sr_1_2?ie=UTF8&qid=1433377060&sr=8-2&keywords=anonymous+hackers)
+- [Anonymous Documentary](https://www.youtube.com/watch?v=FAECyLvSCHg)
+- [Anonymous- The Hacker Wars](https://www.youtube.com/watch?v=ku9edEKvGuY)
+- [Anonymous- We Are Legion](https://www.youtube.com/watch?v=3SsLGPaYjvM)

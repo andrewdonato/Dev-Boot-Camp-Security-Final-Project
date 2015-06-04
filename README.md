@@ -31,7 +31,7 @@ As a software developer, what do I need to know?
 * [Phishing](/exploits/phishing.md) - A Nigerian prince wants to give ME money?
 * [DDoS](/exploits/ddos.md) - Denial Of Service Attacks
 * [Access Point Spoofing](/exploits/spoofing.md) ---Needs work
-* [Keyloggers](/exploits/keyloggers.md) - Keylogging software reads everything you type. ---Needs work
+* [Keyloggers](/exploits/keyloggers.md) - Keylogging software reads everything you type.
 
 
 ###Security Tools
@@ -55,4 +55,5 @@ Watch these step-by-step videos of live hacks.
 
 ###Other
 * [Websites where you can practice security stuff](/other/practice.md)
+* [Anonymous](/other/anonymous.md)
 * What else do we need? add it here fellas
