@@ -1,3 +1,4 @@
+#BeEF
 About
 ----
 Burp is an integrated platform for attacking web applications. The Burp tools are designed to facilitate and speed up the process of attacking an application. All of the Burp tools share the same robust framework for handling HTTP requests, persistence, authentication, upstream proxies, logging, alerting and extensibility.
