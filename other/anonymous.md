@@ -1,7 +1,7 @@
 #Anonymous
 About
 ----
-
+  
 Anonymous (used as a mass noun) is a loosely associated international network of activist and hacktivist entities. A website nominally associated with the group describes it as "an internet gathering" with "a very loose and decentralized command structure that operates on ideas rather than directives".[2] The group became known for a series of well-publicized publicity stunts and distributed denial-of-service (DDoS) attacks on government, religious, and corporate websites.
 
 Anonymous originated in 2003 on the imageboard 4chan, representing the concept of many online and offline community users simultaneously existing as an anarchic, digitized global brain.Anonymous members (known as "Anons") can be distinguished in public by the wearing of stylised Guy Fawkes masks.

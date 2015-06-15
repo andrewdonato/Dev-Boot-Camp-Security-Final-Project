@@ -47,14 +47,9 @@ There are tons of security tools out there. These are just a few that we've spen
 ### Application Development
 * [HTTPS and SSL](/dev/https-ssl.md) - enabling HTTPS over Rails and Sinatra
 
-### Videos
-Watch these step-by-step videos of live hacks.
-* [Hack a Russian chemical site](/movies/russian-chemical-site.md) - Learn how to sweep a site for vulnerabilities using Uniscan and sqlmap. Then, exploit these vulnerabilites to take a look inside their database.
 
-
-
-###Other
-* [Websites where you can practice security stuff](/other/practice.md)
+###Links & Misc.
+* [Websites where you can practice your hacking skills!](/other/practice.md)
 * [General Guidelines](https://YouTube.com/watch?v=u8PrqAkTfdQ)
 * [WebApp Testing Learning](https://www.pentesterlab.com/exercises/web_for_pentester_II)
 * [Learning (A/V)](http://webappsecmovies.sourceforge.net/webgoat/)
@@ -65,4 +60,3 @@ Watch these step-by-step videos of live hacks.
 * [Offensive Security Metaploit Course](http://www.offensive-security.com/metasploit-unleashed/Main_Page)
 * [Challenges](CTF365.com)
 * [Anonymous](/other/anonymous.md)
-* What else do we need? add it here fellas
